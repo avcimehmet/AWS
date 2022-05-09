@@ -1,0 +1,16 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: |
+  This is an ec2 template which I made by myself.
+  
+Resources:
+  CFNHommadeInstance:
+    Type: AWS::EC2::Instance
+    Properties:
+      ImageId: ami-0022f774911c1d690
+      InstanceType: t2.micro
+      KeyName: mehmet #I didn't add the pem extension.
+      SecurityGroups:
+        - cfn-my-sec-group
+      Tags:
+        - Key: Name
+          Value: CFN-Instance 
