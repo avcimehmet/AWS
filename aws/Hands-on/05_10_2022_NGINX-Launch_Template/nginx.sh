@@ -129,3 +129,5 @@ systemctl enable nginx
 19. Connect the Nginx Web Server from the terminal with `curl` command.
 
 curl http://ec2-3-15-183-78.us-east-2.compute.amazonaws.com
+
+20. Don\'t forget to quit vim editor with ':wq!' command
