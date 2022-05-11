@@ -2,7 +2,7 @@
 
 Purpose of the this hands-on training is to give the students basic knowledge of how to install Nginx Web Server on Amazon Linux 2 EC2 instance.
 
-## Learning Outcomes 
+## Learning Outcomes
 
 At the end of the this hands-on training, students will be able to;
 
@@ -129,5 +129,3 @@ systemctl enable nginx
 19. Connect the Nginx Web Server from the terminal with `curl` command.
 
 curl http://ec2-3-15-183-78.us-east-2.compute.amazonaws.com
-
-20. Don\'t forget to quit vim editor with ':wq!' command

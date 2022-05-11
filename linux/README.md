@@ -18,3 +18,4 @@ Linux Workshop contains hands-on trainings and projects.
     - 2020-06-30-victor-using-package-manager
     
     - 2020-07-19-osvaldo-asg-2
+    

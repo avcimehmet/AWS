@@ -2,7 +2,7 @@ clear# Hands-on EC2-03 : Creating an Instance with Launch Template and Versionin
 
 Purpose of the this hands-on training is to give the students understanding of how to create Launch Template on AWS Console with `user data` and how to version Launch Templates.
 
-## Learning Outcomes 
+## Learning Outcomes
 
 At the end of the this hands-on training, students will be able to;
 
